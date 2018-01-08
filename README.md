@@ -19,6 +19,7 @@ The following features are currently working:
 * Monitor three different sub-Reddits (/r/wallstreetbets, /r/stocks, /r/investing), parsing all the submissions and comments for talked about Tickers, and then using a custom Keras classifier to determine whether they are considering a SELL or a BUY on that stock.
 * Monitor stocks that might be purchased, waiting for the most opportune time to purchase.
 * Multiple trading strategies are automatically triggered depending on the time of day. If the markets just opened (09:15-10:15) it will use the Price Swing Strategy. The rest of the day, it's looking for volumetric income by Short Trading.
+* Closes out all positions at the end of the day, regardless of their prices, swing trading isn't supported quite yet.
 
 Things that are currently in testing:
 * Stock Screener
@@ -67,6 +68,7 @@ There are a lot of people smarter than me in the world, so if you think you can 
  - Integrate StockTwits and FinViz for screener and Suggestion Table expansion
  - Right-click stock on Suggestion Table to add to Queue
  - Custom Stock Screener inplace underneath Suggestion Table
+ - Be able to handle swing trades
 
 License
 ----
