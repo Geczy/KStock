@@ -4,7 +4,7 @@
 KStock is a Robinhood Day-Trading Bot written in Python >3.5. It uses the Robinhood API, as well as live data from NASDAQ.com to contiously monnitor stocks and the users portfolio, determining when the most opportune time would be to sell/buy. I wanted to make this opensource because I've seen countless queries about a stock trading bot but with no product. Hopefully this gets the ball rolling and with contributions, everyone starts making money on the market. 
 
 For those of you wondering, no. This does not and will not have any cryptocurrency integration. There are plenty of other bots for that. There are a couple of crypto tickers you can play with that are just as volatile as the cryptos themselves. Have a look at MARA, RIOT, LFIN, LTEA, if you're interested. 
-
+![Live Tab](https://i.imgur.com/OmlSyMB.png) ![Background Tab](https://i.imgur.com/tgm1lYh.png)
 ### Features
 
 KStock features two Tabs: **Live**, **Backend**. 
