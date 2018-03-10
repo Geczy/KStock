@@ -73,6 +73,6 @@ There are a lot of people smarter than me in the world, so if you think you can 
 License
 ----
 
-MIT
+GNU GPL v3.0
 
 
