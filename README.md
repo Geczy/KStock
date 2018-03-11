@@ -61,6 +61,9 @@ Don't be alarmed if this occurs. Close out the window and try re-running KStock.
 
 Now if this occurs multiple times in a row, there may be a bigger problem going on. NASDAQ has been known to change their website format so if that does occur, KStock will not run properly-hence this testing window.
 
+On first initialization, a couple error windows will pop up. That's expected, seeing as how you haven't inputted your Robinhood data yet.
+You'll then need to input your Robinhood info by going to Settings -> API. Assuming everything is correct, you'll be good to go.
+
 KStock was built on Ubuntu 16.04 with Python 3.5.2 but technically this can be run cross-platform. 
 
 ### Development
