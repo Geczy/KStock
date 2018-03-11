@@ -48,10 +48,13 @@ $ python KStock.py
 When this is run, a test function is also run. This looks for a proper connection to Robinhood and NASDAQ:
 
 A dialog will appear:
+
 ![Pass Window](https://i.imgur.com/8DQVi9d.png)
+
 Both NASAQ and Robinhood both have a valid connection, so by closing this dialog, KStock will run.
 
 If a proper connection couldn't be established, one or both tests will fail and a dialog like this will pop up:
+
 ![Fail Window](https://i.imgur.com/f8oaCNK.png)
 
 Don't be alarmed if this occurs. Close out the window and try re-running KStock.
