@@ -74,6 +74,7 @@ There are a lot of people smarter than me in the world, so if you think you can 
 ### Todos
 
  - MORE TESTING
+ - Actually implement the stop-loss (the logic is there, just need to add the RH call)
   
 License
 ----
